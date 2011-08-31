@@ -16,7 +16,7 @@
 				<key>findInProjectIgnoreCase</key>
 				<false/>
 				<key>findString</key>
-				<string>\w</string>
+				<string>[^\s]</string>
 				<key>ignoreCase</key>
 				<true/>
 				<key>regularExpression</key>
