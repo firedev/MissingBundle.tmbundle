@@ -1,17 +1,15 @@
-# Motion Commands for TextMate  #
+# TextMate Missing Bundle  #
+============================
 
-Additional motion / selection commands for your text editing.
+## Ever felt like something is missing in Textmate? ##
 
-## Features ##
+We too, so here is The Missing Bundle for TextMate. Forked from Motion Commands, expanded and re-written. Now includes the following functionality:
 
-Ever want to select a whole line in one keystroke?
-
-Or delete the current line without selecting it first?
-
-This is the bundle for you
-
-Because why do things with two commands (command-right arrow, shift+command+left)
-when the computer can do it for you?
+* Put cursor at the beginning of code even in long lines with Cmd+Opt+←
+* Cleans whitespace on save Cmd+S
+* Delete the current line with Cmd+Opt+Del
+* Delete entire current word with Opt+Del
+* Download Texmate Missing Bundle on GitHub
 
 ## Installation ##
 
@@ -22,4 +20,5 @@ To install via Git:
     git clone git://github.com/McArrow/MissingBundle.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
-Source can be viewed or forked via GitHub: [https://github.com/McArrow/MissingBundle.tmbundle](https://github.com/McArrow/MissingBundle.tmbundle)
+Homepage - [firedev.com](http://firedev.com), 
+Original idea - [motion_commands bundle](https://github.com/rwilcox/motion_commands.tmbundle)
