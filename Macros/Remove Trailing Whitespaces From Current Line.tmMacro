@@ -37,7 +37,7 @@
 	<key>keyEquivalent</key>
 	<string>#@1</string>
 	<key>name</key>
-	<string>Remove Trailing Whitespage form current line</string>
+	<string>Remove Trailing Whitespaces From Current Line</string>
 	<key>uuid</key>
 	<string>1958DD96-592C-4972-8AAC-B9C1858BD00F</string>
 </dict>
