@@ -1,5 +1,4 @@
 # TextMate Missing Bundle  #
-============================
 
 ## Ever felt like something is missing in Textmate? ##
 
