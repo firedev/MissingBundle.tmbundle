@@ -22,4 +22,4 @@ To install via Git:
     git clone git@github.com:rwilcox/motion_commands.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
-Source can be viewed or forked via GitHub: [http://github.com/rwilcox/motion_commands.tmbundle](http://github.com/rwilcox/motion_commands.tmbundle)
+Source can be viewed or forked via GitHub: [https://github.com/McArrow/motion_commands.tmbundle](https://github.com/McArrow/motion_commands.tmbundle)
